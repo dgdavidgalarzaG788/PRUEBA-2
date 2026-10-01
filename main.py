@@ -1,4 +1,4 @@
 def saludar():
-    print("Saludos desde el equipo B")
+    print("Fusión exitosa: equipo A equipo B")
 if name == "main":
     saludar()
